@@ -21,7 +21,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* added inline positioning*/
 .header h1 {
     color: #d9dcd6;
     display: inline-block;
