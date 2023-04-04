@@ -14,6 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
     
+    
 }
 
 .header h1 {
@@ -21,11 +22,15 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 {
     color: #d9dcd6;
+    display: inline-block;
+    position: relative;
+    top: 25px
+    
 }
 
-.header div {
+.header header {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,6 +40,7 @@ body {
 
 .header nav ul {
     list-style-type: none;
+    
     
 }
 /* added css positioning for inline */
